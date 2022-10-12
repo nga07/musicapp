@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMusicPlayer</string>
+    <string name="tvNoSong">Không có bài nhạc nào</string>
+    <string name="infor_channel_id">Channel ID</string>
+    <string name="infor_channel_name">Music app</string>
+    <string name="intent_play_music">Play action</string>
+    <string name="intent_next_music">Next action</string>
+    <string name="intent_prev_music">Prev action</string>
+    <string name="intent_action">Intent action</string>
+    <string name="intent_data_extra">Intent data</string>
+</resources>
